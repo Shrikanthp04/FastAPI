@@ -10,10 +10,10 @@ This project showcases the implementation of CRUD (Create, Read, Update, Delete)
 # Getting Started
 To get started with this project, follow these steps:
 
-i. Clone the Repository: Clone this repository to your local machine using git clone. '\n'
-ii. Install Dependencies: Install the required dependencies by running pip install -r requirements.txt.
-iii. Database Setup: Configure and set up PostgreSQL as per the provided instructions.
-iv. Run the Application: Execute the FastAPI application by running uvicorn main:app --reload.
+1. Clone the Repository: Clone this repository to your local machine using git clone. 
+2. Install Dependencies: Install the required dependencies by running pip install -r requirements.txt.
+3. Database Setup: Configure and set up PostgreSQL as per the provided instructions.
+4. Run the Application: Execute the FastAPI application by running uvicorn main:app --reload.
 
 # Usage
 Once the application is up and running, you can interact with the CRUD endpoints using tools like swagger, Postman, or any HTTP client.
